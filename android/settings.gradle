@@ -1,0 +1,3 @@
+rootProject.name = 'passwd'
+
+include ':app'
